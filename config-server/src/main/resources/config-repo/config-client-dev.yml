@@ -1,0 +1,6 @@
+user:
+  name: john red
+  job: developer
+
+server:
+  port: 8080
